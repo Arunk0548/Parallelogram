@@ -11,5 +11,23 @@ Sample input:
 Sample output: 
 The coordinates form a parallelogram in the following order: (0,0), (0,1), (1,1) and (1,0)
 
+# To Run
 ```
+javac Parallelogram.java
+java Parallelogram
+please enter first point
+0
+0
+please enter second point
+0
+1
+please enter third point
+1
+0
+please enter fourth point
+1
+1
+The coordinates has been given in the following order: (0,0), (0,1), (1,0), (1,1)
+The coordinates form a parallelogram in the following order: (0,0), (0,1), (1,1) and (1,0)
+
 ```
