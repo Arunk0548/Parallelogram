@@ -18,6 +18,9 @@ public class Parallelogram {
      *
      * basically this routine finds a permutation of points and check for
      * validity
+	 *
+	 *	Initially fix a point say [0] index,  do permutations with other three index [1,2,3] [1,3,2] [2,1,3] [ 2,3,1] [ 3,1,2] [ 3,2,1]. 
+	 *  If didn't find, then fix another point say [1] index and do similar permutations. 
      *
      * @param points
      * @param printAllCombination
